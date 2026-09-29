@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+instance/
+finance.db
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
