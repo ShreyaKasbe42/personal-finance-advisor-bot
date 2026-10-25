@@ -62,3 +62,7 @@ Create a new GitHub repository named `personal-finance-advisor-bot`, then run:
 ## Important
 
 Do not commit `.env` or real API keys/passwords to GitHub.
+
+## Project Documentation 
+
+Click below to view the complete Project Documentation.[View Project Documentation] (https://docs.google.com/document/d/1t6urc86s3mcnjB9KgIt7S60pdlL6rfxs/edit?usp=drivesdk&ouid=111326477662139831622&rtpof=true&sd=true)
